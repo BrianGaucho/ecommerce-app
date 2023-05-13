@@ -8,4 +8,7 @@
 body {
   padding: 0;
   margin: 0;
+  background-color: #FFFDD0;
+  overflow: auto;
+  flex-wrap: wrap;
 }
